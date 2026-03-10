@@ -1,5 +1,10 @@
 This is impact 1000 dev class
 Class List
 1. Awure Barry
+<<<<<<< HEAD
 2. olisa ebube
 
+=======
+2. Brusco Laura
+3. Oni Ayodeji
+>>>>>>> 82a75de9a6cb732fc918ec7ab2f8006cfdfbb340
