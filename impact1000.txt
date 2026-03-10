@@ -1,3 +1,5 @@
 This is impact 1000 dev class
+<<<<<<< Updated upstream
 Class List
 1. Awure Barry
+2. Ayodeji Oni
